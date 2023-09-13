@@ -8,7 +8,7 @@ The GitHub WebP Converter App is a powerful tool that automates the process of c
 
 ## Features
 
-### 1. Automated Conversion
+### 1. Automated Conversionbkbj
 
 The GitHub WebP Converter App continuously monitors your repository for any newly added or modified JPG images. When it detects a JPG image, it automatically converts it to the WebP format without any manual intervention. This ensures that all your images are in the optimal format for web usage.
 
