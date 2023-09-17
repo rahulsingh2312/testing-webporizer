@@ -9,6 +9,7 @@ def convert_jpg_to_webp(input_file):
         # Open the JPG image using Pillow
         with Image.open(input_file) as img:
             # Create a WebP version of the image
+            # hi test
             output_file = os.path.splitext(input_file)[0] + ".webp"
             img.save(output_file, "webp" , optimize = True ,quality = 10)
             print(f"Converted {input_file} to {output_file}")
